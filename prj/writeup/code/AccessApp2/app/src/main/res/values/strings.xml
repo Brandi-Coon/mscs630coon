@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessApp</string>
+    <string name="title_activity_main2">Apps</string>
+    <string name="title_activity_main3">Registration</string>
+</resources>
